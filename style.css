@@ -1,0 +1,39 @@
+h1#timeline-date {
+  text-align: center;
+  margin: 0px 0px 5px 0px;
+}
+
+span#timeline-text {
+  text-align: center;
+  width: 100%;
+  display: block;
+  max-width: 750px;
+  margin: 15px auto 0px auto;
+}
+
+div#timeline-line-container {
+  text-align: center;
+}
+
+div.timeline-date {
+  width: 20px;
+  height: 20px;
+  background-color: #000;
+  display: inline-block;
+  border-radius: 10px;
+  margin-bottom: -8px;
+  margin-right: -1px;
+  margin-left: -3px;
+}
+
+div.timeline-date:hover {
+  background-color: #333;
+  cursor: pointer;
+}
+
+div.timeline-line {
+  display: inline-block;
+  height: 5px;
+  width: 15px;
+  background-color: #000;
+}
