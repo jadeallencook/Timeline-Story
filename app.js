@@ -15,14 +15,16 @@ new Promise(function (res, rej) {
   for (var x = 0, max = timelineInfo.length; x < max; x++) {
     var classes;
     if (timelineInfo[x].highlight) classes = 'timeline-date highlight';
-    else  classes = 'timeline-date';
+    else classes = 'timeline-date';
     timelineLineContainer.innerHTML += '<div class="' + classes + '" id="timeline-story-' + x + '"></div>';
     if (x !== (max - 1)) timelineLineContainer.innerHTML += '<div class="timeline-line"></div>';
   }
+
   function displayDate(num) {
     var date = timelineInfo[num];
     timelineText.innerText = date.text;
     if (date.image) timelineText.innerHTML += '<img src="' + date.image + '" />';
+    if (date.caption) timelineText.innerHTML += '<span class="caption">' + date.caption + '</span>';
     timelineDate.innerText = date.year;
     for (var x = 0, max = timelineDates.length; x < max; x++) {
       var elem = timelineDates[x];

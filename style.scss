@@ -31,8 +31,12 @@ div#timeline-story-container {
     img {
         display: block;
         width: auto;
-        margin: 15px auto 25px auto;
+        margin: 15px auto 15px auto;
         max-height: 250px;
+    }
+    span.caption {
+        font-size: 0.75em;
+        margin-bottom: 25px;
     }
     div#timeline-line-container {
         text-align: center;

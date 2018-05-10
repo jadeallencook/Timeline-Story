@@ -27,8 +27,11 @@ div#timeline-story-container {
   div#timeline-story-container img {
     display: block;
     width: auto;
-    margin: 15px auto 25px auto;
+    margin: 15px auto 15px auto;
     max-height: 250px; }
+  div#timeline-story-container span.caption {
+    font-size: 0.75em;
+    margin-bottom: 25px; }
   div#timeline-story-container div#timeline-line-container {
     text-align: center; }
     div#timeline-story-container div#timeline-line-container div.timeline-line {

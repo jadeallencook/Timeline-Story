@@ -2,70 +2,84 @@
     "year": 2002,
     "text": "Ancestry enters into the DNA testing arena partnering with Relative Genetics to offer y and mitochondrial testing. Dan Taggart and Paul Allen, whose influence over the company has diminished, leave Ancestry to pursue other projects.",
     "image": false,
+    "caption": false,
     "highlight": true
 }, {
     "year": 2003,
     "text": "Ancestry completes the 1930 census.",
     "image": "images/census.png",
+    "caption": "From Ancestry.com",
     "highlight": false
 }, {
     "year": 2006,
     "text": "Ancestry continues its international expansion with Australian, Canadian, and German sites.",
     "image": "images/booth.png",
+    "caption": "The Ancestry booth at the National Genealogical Society Conference in June 2006, Courtesy of Loretto Szucs",
     "highlight": false
 }, {
     "year": 2007,
     "text": "Ancestry expands its DNA offerings with the integration of family trees. French, Italian, Swedish, and Chinese sites are added for international customers.",
     "image": false,
+    "caption": false,
     "highlight": true
 }, {
     "year": 2008,
     "text": "Ancestry continues to acquire genealogical records from all over the world.",
     "image": "images/records.png",
+    "caption": "Ancestry employee Quinton Atkinson at the National Archives in 2008, Courtesy of Loretto Szucs",
     "highlight": false
 }, {
     "year": 2009,
     "text": "Ancestry reaches one million subscribers and debuts on the NASDAQ.",
     "image": "images/nasdaq.png",
+    "caption": "Left: Former Ancestry CEO Tim Sullivan rings the opening bell announcing Ancestry’s IPO on Nasdaq. Right: Ancestry.com appears on banner in New York City on Nov. 5, 2009, Courtesy of Loretto Szucs",
     "highlight": true
 }, {
     "year": 2011,
     "text": "The first Ancestry app for iPad and iPhone is unveiled, reaching one million downloads within a few months.",
     "image": "images/app.png",
+    "caption": "From Ancestry.com",
     "highlight": false
 }, {
     "year": 2012,
     "text": "Ancestry hits the two million subscriber mark. Ancestry DNA is launched, offering autosomal DNA testing to give users insight into their ethnicity. After shares begin to dip, a group of investors led by Permira takes the company private in a $1.6 billion deal.",
     "image": "images/panel.png",
+    "caption": "Ancestry executives, including Tim Sullivan on the left, at RootsTech Conference 2012, Courtesy of Loretto Szucs",
     "highlight": true
 }, {
     "year": 2013,
     "text": "Ancestry announces an exclusive agreement with FamilySearch to digitize one billion records from the LDS Church’s mountain vault.",
     "image": "images/vault.png",
+    "caption": "The entrance to the Granite Mountain Records Vault, located in Little Cottonwood Canyon, Christina Smith, LDS photo studio, published in the Deseret News",
     "highlight": false
 }, {
     "year": 2014,
     "text": "Ancestry offers all LDS Church members free access to Ancestry.com.",
     "image": false,
+    "caption": false,
     "highlight": false
 }, {
     "year": 2015,
     "text": "Ancestry releases an exclusive collection of U.S. Wills and Probate records, and reaches the milestone of one million people tested via Ancestry DNA.",
     "image": "images/record.png",
+    "caption": "From Ancestry.com",
     "highlight": true
 }, {
     "year": 2016,
     "text": "Ancestry DNA expands its product availability to nearly 30 countries.",
     "image": "images/countries.png",
+    "caption": "From Ancestry.com",
     "highlight": false
 }, {
     "year": 2017,
     "text": "Ancestry confidentially files for an IPO. That plan is halted in September when it is announced that longtime CEO Tim Sullivan will step down and the IPO will be postponed. ",
     "image": false,
+    "caption": false,
     "highlight": false
 }, {
     "year": 2018,
     "text": "Margo Georgiadis, most recently the CEO of Mattel Inc., is named as the new CEO of Ancestry. The company’s website boasts more than 30 international markets, 3 million paying subscribers, close to 10 million people DNA tested and $1 billion in revenue in 2017.",
     "image": false,
+    "caption": false,
     "highlight": true
 }]
