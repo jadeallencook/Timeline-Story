@@ -3,7 +3,7 @@ new Promise(function (res, rej) {
   request.onload = function () {
     res(JSON.parse(this.response));
   }
-  request.open('get', 'data/ancestry-2.json');
+  request.open('get', 'data/ancestry-1.json');
   request.send();
 }).then(function (data) {
   var timelineInfo = data;
