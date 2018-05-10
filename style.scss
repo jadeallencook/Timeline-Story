@@ -1,0 +1,50 @@
+div#timeline-story-container {
+    margin: 25px 0px;
+    div.timeline-date {
+        width: 15px;
+        height: 15px;
+        background-color: #000;
+        display: inline-block;
+        border-radius: 100%;
+        margin-bottom: -5px;
+        margin-right: -1px;
+        margin-left: -3px;
+    }
+    div.highlight {
+        height: 23px;
+        width: 23px;
+        margin-bottom: -9px;
+        margin-right: -1px;
+        margin-left: -3px;
+    }
+    h1#timeline-date {
+        text-align: center;
+        margin: 0px 0px 5px 0px;
+    }
+    span#timeline-text {
+        text-align: center;
+        width: 100%;
+        display: block;
+        max-width: 750px;
+        margin: 15px auto 0px auto;
+    }
+    img {
+        display: block;
+        width: auto;
+        margin: 25px auto;
+        max-height: 250px;
+    }
+    div#timeline-line-container {
+        text-align: center;
+        div.timeline-line {
+            display: inline-block;
+            height: 5px;
+            width: 15px;
+            background-color: #000;
+        }
+    }
+    div.timeline-date:hover {
+        background-color: #333;
+        cursor: pointer;
+    }
+}
