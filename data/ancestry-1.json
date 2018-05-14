@@ -5,43 +5,43 @@
     "data": [{
         "year": 1983,
         "text": "Ancestry Publishing is founded by John Sittner in Salt Lake City. The company eventually publishes over 40 family history magazine titles and genealogy reference books.",
-        "image": "images/first-book.png",
+        "image": "http://54.215.232.158/assets/images/first-book.png",
         "caption": "Left: Ancestry magazine Jan/Feb 1984, Right: Ancestry Newsletter Mar/Apr 1984, Courtesy of Loretto Szucs",
         "highlight": true
     }, {
         "year": 1984,
         "text": "Ancestry Publishing releases \"The Source,\" an about 800-page reference guide for genealogical research with chapters written by leading experts in the field, including Loretto Szucs.",
-        "image": "images/the-source.png",
+        "image": "http://54.215.232.158/assets/images/the-source.png",
         "caption": "\"The Source: A Guidebook to American Genealogy\" third edition, Courtesy of Loretto Szucs",
         "highlight": false
     }, {
         "year": 1990,
         "text": "Paul Allen and Dan Taggart, two BYU graduates, start a company called Infobases and produce their first product: a set of 10 floppy disks containing digital versions of all the LDS scriptures.  ",
-        "image": "images/lds-quad.png",
+        "image": "http://54.215.232.158/assets/images/lds-quad.png",
         "caption": "The LDS Quad Infobase, Courtesy of Paul Allen",
         "highlight": true
     }, {
         "year": 1992,
         "text": "The Ancestry Store is available on Prodigy, one of the first online service providers. ",
-        "image": "images/prodigy.png",
+        "image": "http://54.215.232.158/assets/images/prodigy.png",
         "caption": "The Ancestry Store as it appeared on Loretto Szucs’s personal home computer in 1992, Courtesy of Loretto Szucs",
         "highlight": false
     }, {
         "year": 1995,
         "text": "Infobases releases its first genealogy product, the LDS Family History Suite, which includes family tree software, a collection of LDS pioneer journals and vital records, and a reference database with multiple books from Ancestry Publishing, including \"The Source.\"",
-        "image": "images/infobases.png",
+        "image": "http://54.215.232.158/assets/images/infobases.png",
         "caption": "Infobases LDS Family History Suite, Courtesy of Paul Allen",
         "highlight": false
     }, {
         "year": 1996,
         "text": "Ancestry Publishing launches Ancestry.com.",
-        "image": "images/website.png",
+        "image": "http://54.215.232.158/assets/images/website.png",
         "caption": "Screenshot of Ancestry.com on October 28, 1996, from Web.archive.org",
         "highlight": false
     }, {
         "year": 1997,
         "text": "Ancestry changes hands. Paul Allen and Dan Taggart buy Ancestry Publishing from John Sittner and combine it with their Infobases business to create a new company called Ancestry.com Inc.",
-        "image": "images/changes-hands.png",
+        "image": "http://54.215.232.158/assets/images/changes-hands.png",
         "caption": "Left: Cover of Ancestry Magazine Mar/Apr 1997 announcing change in leadership, Right: John Sittner, Dan Taggart and Loretto Szucs at a celebration of Ancestry’s hand off, Courtesy of Loretto Szucs",
         "highlight": false
     }, {
@@ -65,7 +65,7 @@
     }, {
         "year": 2001,
         "text": "Ancestry reaches the milestone of one billion records. The company begins to expand internationally, with the debut of Ancestry.co.uk.",
-        "image": "images/student.png",
+        "image": "http://54.215.232.158/assets/images/student.png",
         "caption": "An Ancestry employee helps a student at the Ancestry booth in 2001 at the Gentech conference, the predecessor to RootsTech, Courtesy of Loretto Szucs",
         "highlight": true
     }]
